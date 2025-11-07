@@ -1,11 +1,11 @@
-# 🧠 Sentiment Analysis on Amazon Product Reviews
+# Sentiment Analysis on Amazon Product Reviews
 
 This repository contains the implementation of **Problem 2: Sentiment Analysis of Reviews**, developed as part of the **Quera AI Bootcamp** group project.  
 The goal of this project is to analyze Amazon electronic product reviews and build a model capable of predicting the sentiment (rating 1–5) of each review using Natural Language Processing (NLP) and Machine Learning techniques.
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 -   [Overview](#-overview)
 -   [Dataset Description](#-dataset-description)
@@ -23,14 +23,14 @@ The goal of this project is to analyze Amazon electronic product reviews and bui
 
 ---
 
-## 🧩 Overview
+## Overview
 
 Sentiment Analysis is a subfield of Natural Language Processing (NLP) focused on identifying and extracting subjective information from text — such as opinions, emotions, or attitudes.  
 In this project, we analyzed **Amazon product reviews** to uncover patterns in customer satisfaction and to train a model that predicts review ratings from 1 to 5 based on text content.
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The dataset includes reviews of electronic products from Amazon.  
 The data was accessed directly from Google Drive within the notebooks (not stored in this repository).  
@@ -52,7 +52,7 @@ Below are the main columns of the dataset used:
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 📁 sentiment-analysis-project/
@@ -75,7 +75,7 @@ Below are the main columns of the dataset used:
 
 ---
 
-## 🔍 Tasks Overview
+## Tasks Overview
 
 ### Part 1 — Exploratory Data Analysis (EDA)
 
@@ -122,7 +122,7 @@ In this section, we fine-tuned transformer-based models to predict review sentim
 
 ---
 
-## ⚙️ Model Details
+##  Model Details
 
 | Model      | Base Architecture          | Fine-Tuning Strategy                               | Evaluation Metric |
 | :--------- | :------------------------- | :------------------------------------------------- | :---------------- |
@@ -131,7 +131,7 @@ In this section, we fine-tuned transformer-based models to predict review sentim
 
 ---
 
-## 🌿 Repository Branches
+## Repository Branches
 
 This project includes the following branches, corresponding to each part of the assignment:
 
@@ -144,7 +144,7 @@ This project includes the following branches, corresponding to each part of the 
 
 ---
 
-## 📈 Results and Reports
+## Results and Reports
 
 All outputs, figures, and findings are compiled in:
 
@@ -154,7 +154,7 @@ All outputs, figures, and findings are compiled in:
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 This project was developed collaboratively by a team of three participants from the **Quera AI Bootcamp**:
 
@@ -166,18 +166,12 @@ This project was developed collaboratively by a team of three participants from 
 
 ---
 
-## 💡 Acknowledgments
+##  Acknowledgments
 
 This project was developed as part of the **Quera Artificial Intelligence Bootcamp**, aiming to strengthen practical understanding of NLP, data preprocessing, and transformer-based modeling.  
 Special thanks to the mentors and the Quera AI team for their support and feedback.
 
 ---
 
-## 🪪 License
 
-This project is released under the **MIT License**.  
-You’re free to use, modify, and distribute it, provided that proper credit is given.
 
----
-
-⭐ If you found this project useful, please consider starring the repository!
